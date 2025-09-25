@@ -1,6 +1,6 @@
 Team ionic (20) - Women Saftey Measures against Domestic violence.
 Team Members : 1.Prisha Bhugra 
-               2.Hashita Waghmare
+               2.Harshita Waghmare
                3.Anushka Sah
                4.Divya Verma
 ## 💡 Project Overview / Problem Statement
